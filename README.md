@@ -18,6 +18,7 @@ Short exploration and modelling project for the German Credit dataset, completed
 
 ## Repository structure
 - README.md — this file
+
 Work in progress, imported from the Kaggle Challenge : 
 - data/ — (not tracked) place raw CSV files here
 - notebooks/
