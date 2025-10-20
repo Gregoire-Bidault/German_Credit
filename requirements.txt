@@ -1,0 +1,14 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+xgboost
+skrub
+optuna
+joblib
+lightgbm
+ydata-profiling
+ipykernel
+ipywidgets
+plotly

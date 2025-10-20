@@ -18,9 +18,7 @@ Short exploration and modelling project for the German Credit dataset, completed
 
 ## Repository structure
 - README.md — this file
-- DSB_German_Credit folder - the original GitHub repo, not cleaned yet
-
-Work in progress : 
+Work in progress, imported from the Kaggle Challenge : 
 - data/ — (not tracked) place raw CSV files here
 - notebooks/
     - 01_exploration.ipynb — EDA and initial data cleaning
@@ -28,7 +26,8 @@ Work in progress :
     - 03_modeling.ipynb — training, CV, and evaluation
     - 04_interpretation.ipynb — feature importance and explanations
 - src/
-    - data_utils.py — loading and preprocessing helpers
+    - utils.py — loading and preprocessing helpers
+    - custom_metric.py - a custom-business related metric
     - modeling.py — training and evaluation functions
 - submissions/ — saved submission CSV(s)
 - requirements.txt — Python package requirements
