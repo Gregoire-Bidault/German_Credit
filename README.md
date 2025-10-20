@@ -18,19 +18,18 @@ Short exploration and modelling project for the German Credit dataset, completed
 
 ## Repository structure
 - README.md — this file
-
-Work in progress, imported from the Kaggle Challenge : 
-- data/ — (not tracked) place raw CSV files here
-- notebooks/
-    - 01_exploration.ipynb — EDA and initial data cleaning
-    - 02_feature_engineering.ipynb — preprocessing and features
-    - 03_modeling.ipynb — training, CV, and evaluation
-    - 04_interpretation.ipynb — feature importance and explanations
-- src/
-    - utils.py — loading and preprocessing helpers
-    - custom_metric.py - a custom-business related metric
-    - modeling.py — training and evaluation functions
-- submissions/ — saved submission CSV(s)
+- Work in progress, imported from the Kaggle Challenge : 
+    - data/ — (not tracked) place raw CSV files here
+    - notebooks/
+        - 01_exploration.ipynb — EDA and initial data cleaning
+        - 02_feature_engineering.ipynb — preprocessing and features
+        - 03_modeling.ipynb — training, CV, and evaluation
+        - 04_interpretation.ipynb — feature importance and explanations
+    - src/
+        - utils.py — loading and preprocessing helpers
+        - custom_metric.py - a custom-business related metric
+        - modeling.py — training and evaluation functions
+    - submissions/ — saved submission CSV(s)
 - requirements.txt — Python package requirements
 
 ## Modelling summary
